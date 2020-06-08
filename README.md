@@ -4,9 +4,14 @@ Listmanipulator customizes, combines, modifies, etc. wordlists and saves them in
 Usage: python3 listmanipulator.py option list
 
 Options:
+
 -c (combine)
+
 -uc (upper case)
+
 -lc (lower case)
+
 -fuc (first upper case)
+
 -ad (add date)
 
