@@ -15,3 +15,4 @@ Options:
 
 -ad (add date)
 
+-asd (add specific date)
